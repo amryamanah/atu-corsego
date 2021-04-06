@@ -43,6 +43,8 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'faker'
   gem 'spring'
+  gem 'rubocop'
+  gem 'solargraph'
 end
 
 group :test do
